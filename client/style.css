@@ -1,0 +1,43 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background:rgb(109, 112, 112);
+}
+
+/* #left{
+    width: 50%;
+    height: 100vh;
+    text-align: center;
+    background: lightsalmon;
+} */
+
+#right{
+    width: 50%;
+    height: 100vh;
+    text-align: center;
+    background: palegreen;
+}
+/* #left,#right{
+    height: 100vh;
+    width: 100%;
+} */
+
+/* #branding{
+    width: 50%;
+    height: auto;
+    text-align: center;
+    margin-top: 15rem;
+} */
+input{
+    width: 50%;
+}
+#condition{
+    width: 50%;
+    height: auto;
+}
+
+#master-history{
+    display: none
+}
+
